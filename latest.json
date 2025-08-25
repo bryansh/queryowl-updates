@@ -1,18 +1,22 @@
 {
-  "version": "0.1.0",
+  "version": "v0.1.0",
   "pub_date": "2024-01-01T00:00:00.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_aarch64-apple-darwin.tar.gz"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_aarch64-apple-darwin.tar.gz",
+      "signature": ""
     },
     "darwin-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_x86_64-apple-darwin.tar.gz"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_x86_64-apple-darwin.tar.gz",
+      "signature": ""
     },
     "linux-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_amd64.AppImage"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_amd64.AppImage",
+      "signature": ""
     },
     "windows-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_x64_en-US.msi"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.0/queryowl_0.1.0_x64_en-US.msi",
+      "signature": ""
     }
   }
 }
