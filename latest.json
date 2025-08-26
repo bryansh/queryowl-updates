@@ -3,10 +3,10 @@
   "pub_date": "2025-08-26T07:35:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_aarch64.dmg"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_x64.dmg"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_x64.app.tar.gz"
     },
     "linux-x86_64": {
       "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_amd64.AppImage"
