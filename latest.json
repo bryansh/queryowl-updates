@@ -3,20 +3,16 @@
   "pub_date": "2025-08-26T07:35:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_aarch64.dmg",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_aarch64.dmg"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_x64.dmg",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_x64.dmg"
     },
     "linux-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_amd64.AppImage",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_amd64.AppImage"
     },
     "windows-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_x64_en-US.msi",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.2/queryowl_0.1.2_x64_en-US.msi"
     }
   }
 }
