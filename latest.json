@@ -1,22 +1,22 @@
 {
-  "version": "0.1.8",
-  "pub_date": "2025-08-27T03:54:14Z",
+  "version": "0.1.9",
+  "pub_date": "2025-08-27T04:21:01Z",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_0.1.8_amd64.AppImage",
-      "signature": "See GitHub release for queryowl_0.1.8_amd64.AppImage.sig"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.9/queryowl_0.1.9_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd09taUxmcFREMURJNU8vVGxsTEE5N0VGSzhWdkJvZWVzSFpYUGs1ancwMERQTFpFTldXWnpNVnlMRi92WUptdm1kSUNFQU5rMm0ybXZuaVQwNC9kZHFIWEN4Y2pEN0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MjY4NjA5CWZpbGU6cXVlcnlvd2xfMC4xLjlfYW1kNjQuQXBwSW1hZ2UKdlIxS21HaDFoOXNiQkkrRi9jNUdrSEtzYU14NE5IdjFwQk1LclZlY29qVUpSeUdGNW9jSjMycUxNQlA4KzVvTklndVhkWjFMajZpbytEb3dFbk53Q1E9PQo="
     },
     "windows-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_0.1.8_x64_en-US.msi",
-      "signature": "See GitHub release for queryowl_0.1.8_x64_en-US.msi.sig"
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.9/queryowl_0.1.9_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd09taUxmcFREMU54bGd6bW9WS0p5VDc2aW5PS1BFcFV3em1TaWxEMUQ4OUZ6dnJMZ0ZWYURoQVV0Y2JtVVV6T0NtOVhkN2J5OVdZeVJYWkFRZGhHNjRMM0JvWkVSTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MjY4NTc1CWZpbGU6cXVlcnlvd2xfMC4xLjlfeDY0X2VuLVVTLm1zaQpUSHE0NktBMGNKWEdDRjFrbGg3SXNmTnpJQ3h2YWs5Wi9CdS9MSEd3cDVNUnJCVE1WbzRoOHlBVUNlb2FnSzEvRGhiVkJhQTUxbmhNNURidElOMG5CQT09Cg=="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_aarch64.app.tar.gz",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.9/queryowl_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd09taUxmcFREMUhKb3ZYYmI0Rnl1SnNXam4rekpVVmhweTRmS1dON1lGQjJQNGt1enFOMndJd2dJTmdsdVBYWHFBeUU5Q0hwbzJQSGpMY3VGdHZoV0hTZllBYmxoZWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MjY4NDc1CWZpbGU6cXVlcnlvd2wuYXBwLnRhci5negpzWUtvV2M0MW8vMmJDaml3RkJUbjR2TjRkWVdxQXBvVFNOVi9ucWJKS01RVWJTK3FWbFNmTTVLU1FpTVNhMjA1c1pWdmoxOUxUdTh3dkZpYWFhQmFEUT09Cg=="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_x64.app.tar.gz",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.9/queryowl_x64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd09taUxmcFREMUpFc1pFYmRORGlSUEVoeGpoUjZCMVpwSHZmaUJ6MmlJRzE0NlZqUGt6RjhpeHRaVFEraGVrUm5QNVhjY3dCdTRwbFd0TFptaWlMaEtnaWQrNFZwSWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2MjY4NDYwCWZpbGU6cXVlcnlvd2wuYXBwLnRhci5negpPRE9HakZLWmRoYW9DSnZiU0dwWGRFcE00czlsM0J2U0dzQWJyRmlSSWZ4eUw4Z0ZtUXB4TVFiOUJydDNMMWhNRFdUK2dRKzB0ektUdDdXZVhsblVDUT09Cg=="
     }
   }
 }
