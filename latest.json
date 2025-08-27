@@ -1,21 +1,21 @@
 {
-  "version": "0.1.5",
-  "pub_date": "2025-08-26T22:12:05Z",
+  "version": "0.1.8",
+  "pub_date": "2025-08-27T03:54:14Z",
   "platforms": {
     "linux-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.5/queryowl_0.1.5_amd64.AppImage",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_0.1.8_amd64.AppImage",
+      "signature": "See GitHub release for queryowl_0.1.8_amd64.AppImage.sig"
     },
     "windows-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.5/queryowl_0.1.5_x64_en-US.msi",
-      "signature": ""
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_0.1.8_x64_en-US.msi",
+      "signature": "See GitHub release for queryowl_0.1.8_x64_en-US.msi.sig"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.5/queryowl_aarch64.app.tar.gz",
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_aarch64.app.tar.gz",
       "signature": ""
     },
     "darwin-x86_64": {
-      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.5/queryowl_x64.app.tar.gz",
+      "url": "https://github.com/bryansh/queryowl/releases/download/v0.1.8/queryowl_x64.app.tar.gz",
       "signature": ""
     }
   }
